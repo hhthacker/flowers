@@ -19,6 +19,7 @@
     "@trpc/next": "^10.37.1",
     "@trpc/react-query": "^10.37.1",
     "@trpc/server": "^10.37.1",
+    "garden": "^0.52.0",
     "next": "^13.5.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
@@ -26,6 +27,7 @@
     "zod": "^3.22.4"
   },
   "devDependencies": {
+    "@playwright/test": "^1.39.0",
     "@types/eslint": "^8.44.2",
     "@types/node": "^18.16.0",
     "@types/react": "^18.2.20",

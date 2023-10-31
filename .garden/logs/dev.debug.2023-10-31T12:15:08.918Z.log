@@ -1,0 +1,30 @@
+
+[2023-10-31T12:15:09.010Z] Garden server has successfully started at port 9777.
+
+
+[2023-10-31T12:15:09.020Z] Initializing Garden Cloud API client.
+
+[2023-10-31T12:15:09.021Z] Checking client auth token with Cloud Dashboard: https://app.garden.io/token/verify
+
+[2023-10-31T12:15:09.209Z] Checked client auth token with Cloud Dashboard - valid: true
+
+[2023-10-31T12:15:09.210Z] Authorizing...
+
+[2023-10-31T12:15:09.210Z] Starting refresh interval.
+
+[2023-10-31T12:15:09.211Z] Will run refresh function every 4500 ms.
+
+[2023-10-31T12:15:20.692Z] 
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ Running test e2e command... ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+
+[2023-10-31T12:15:20.721Z] Could not find project in current directory or any parent directory
+
+[2023-10-31T12:23:47.021Z] 
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ Running test command... ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+
+[2023-10-31T12:23:47.042Z] Could not find project in current directory or any parent directory
+
+[2023-10-31T12:30:18.630Z] 
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ Running deploy command... ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+
+[2023-10-31T12:30:18.651Z] Could not find project in current directory or any parent directory

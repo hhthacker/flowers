@@ -1,0 +1,29 @@
+
+[2023-10-31T12:10:56.302Z] Garden server has successfully started at port 9777.
+
+
+[2023-10-31T12:10:56.312Z] Initializing Garden Cloud API client.
+
+[2023-10-31T12:10:56.313Z] Checking client auth token with Cloud Dashboard: https://app.garden.io/token/verify
+
+[2023-10-31T12:10:56.665Z] Checked client auth token with Cloud Dashboard - valid: true
+
+[2023-10-31T12:10:56.666Z] Authorizing...
+
+[2023-10-31T12:10:56.667Z] Starting refresh interval.
+
+[2023-10-31T12:10:56.668Z] Will run refresh function every 4500 ms.
+
+[2023-10-31T12:11:06.711Z] 
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ Running test command... ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+
+[2023-10-31T12:11:06.733Z] Could not find project in current directory or any parent directory
+
+[2023-10-31T12:14:59.856Z] Syncs started during this session may still be active when this command terminates. You can run garden sync stop '*' to stop all code syncs. Hint: To stop code syncing when exiting garden dev, use Ctrl-D or the exit command.
+→ Run garden util hide-warning dev-syncs-active to disable this warning.
+
+[2023-10-31T12:14:59.868Z] Done flushing all events and log entries.
+
+[2023-10-31T12:14:59.921Z] Watcher: Initializing
+
+[2023-10-31T12:14:59.923Z] Watcher: Starting FSWatcher

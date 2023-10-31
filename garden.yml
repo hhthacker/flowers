@@ -1,0 +1,6 @@
+kind: Test
+type: container
+name: e2e
+build: flowers
+spec:
+  args: [npx, playwright, test]

@@ -1,0 +1,13 @@
+{"msg":"Garden server has successfully started at port 9777.","section":"","timestamp":"2023-10-31T12:15:09.004Z","level":"info"}
+{"msg":"Initializing Garden Cloud API client.","section":"cloud-dashboard [debug] →","timestamp":"2023-10-31T12:15:09.020Z","level":"debug"}
+{"msg":"Checking client auth token with Cloud Dashboard: https://app.garden.io/token/verify","section":"[debug]","timestamp":"2023-10-31T12:15:09.021Z","level":"debug"}
+{"msg":"Checked client auth token with Cloud Dashboard - valid: true","section":"[debug]","timestamp":"2023-10-31T12:15:09.209Z","level":"debug"}
+{"msg":"Authorizing...","section":"cloud-dashboard [debug] →","timestamp":"2023-10-31T12:15:09.210Z","level":"debug"}
+{"msg":"Starting refresh interval.","section":"cloud-dashboard [debug] →","timestamp":"2023-10-31T12:15:09.210Z","level":"debug"}
+{"msg":"Will run refresh function every 4500 ms.","section":"[debug]","timestamp":"2023-10-31T12:15:09.211Z","level":"debug"}
+{"msg":"┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ Running test e2e command... ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈","section":"","timestamp":"2023-10-31T12:15:20.691Z","level":"info"}
+{"msg":"Could not find project in current directory or any parent directory","section":"","timestamp":"2023-10-31T12:15:20.721Z","level":"error"}
+{"msg":"┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ Running test command... ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈","section":"","timestamp":"2023-10-31T12:23:47.020Z","level":"info"}
+{"msg":"Could not find project in current directory or any parent directory","section":"","timestamp":"2023-10-31T12:23:47.041Z","level":"error"}
+{"msg":"┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ Running deploy command... ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈","section":"","timestamp":"2023-10-31T12:30:18.628Z","level":"info"}
+{"msg":"Could not find project in current directory or any parent directory","section":"","timestamp":"2023-10-31T12:30:18.651Z","level":"error"}

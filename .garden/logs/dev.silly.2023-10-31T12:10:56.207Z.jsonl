@@ -1,0 +1,13 @@
+{"msg":"Garden server has successfully started at port 9777.","section":"","timestamp":"2023-10-31T12:10:56.295Z","level":"info"}
+{"msg":"Initializing Garden Cloud API client.","section":"cloud-dashboard [debug] →","timestamp":"2023-10-31T12:10:56.312Z","level":"debug"}
+{"msg":"Checking client auth token with Cloud Dashboard: https://app.garden.io/token/verify","section":"[debug]","timestamp":"2023-10-31T12:10:56.313Z","level":"debug"}
+{"msg":"Checked client auth token with Cloud Dashboard - valid: true","section":"[debug]","timestamp":"2023-10-31T12:10:56.665Z","level":"debug"}
+{"msg":"Authorizing...","section":"cloud-dashboard [debug] →","timestamp":"2023-10-31T12:10:56.666Z","level":"debug"}
+{"msg":"Starting refresh interval.","section":"cloud-dashboard [debug] →","timestamp":"2023-10-31T12:10:56.667Z","level":"debug"}
+{"msg":"Will run refresh function every 4500 ms.","section":"[debug]","timestamp":"2023-10-31T12:10:56.667Z","level":"debug"}
+{"msg":"┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ Running test command... ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈","section":"","timestamp":"2023-10-31T12:11:06.711Z","level":"info"}
+{"msg":"Could not find project in current directory or any parent directory","section":"","timestamp":"2023-10-31T12:11:06.732Z","level":"error"}
+{"msg":"Syncs started during this session may still be active when this command terminates. You can run garden sync stop '*' to stop all code syncs. Hint: To stop code syncing when exiting garden dev, use Ctrl-D or the exit command.\n→ Run garden util hide-warning dev-syncs-active to disable this warning.","section":"","timestamp":"2023-10-31T12:14:59.855Z","level":"warn"}
+{"msg":"Done flushing all events and log entries.","section":"[debug]","timestamp":"2023-10-31T12:14:59.868Z","level":"debug"}
+{"msg":"Watcher: Initializing","section":"[debug]","timestamp":"2023-10-31T12:14:59.921Z","level":"debug"}
+{"msg":"Watcher: Starting FSWatcher","section":"[debug]","timestamp":"2023-10-31T12:14:59.923Z","level":"debug"}

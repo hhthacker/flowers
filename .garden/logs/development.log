@@ -1,0 +1,29 @@
+
+[2023-10-31T12:10:56.303Z] Garden server has successfully started at port 9777.
+
+
+[2023-10-31T12:11:06.713Z] 
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ Running test command... ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+
+[2023-10-31T12:11:06.735Z] Could not find project in current directory or any parent directory
+
+[2023-10-31T12:14:59.857Z] Syncs started during this session may still be active when this command terminates. You can run garden sync stop '*' to stop all code syncs. Hint: To stop code syncing when exiting garden dev, use Ctrl-D or the exit command.
+→ Run garden util hide-warning dev-syncs-active to disable this warning.
+
+[2023-10-31T12:15:09.011Z] Garden server has successfully started at port 9777.
+
+
+[2023-10-31T12:15:20.694Z] 
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ Running test e2e command... ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+
+[2023-10-31T12:15:20.723Z] Could not find project in current directory or any parent directory
+
+[2023-10-31T12:23:47.022Z] 
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ Running test command... ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+
+[2023-10-31T12:23:47.043Z] Could not find project in current directory or any parent directory
+
+[2023-10-31T12:30:18.632Z] 
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ Running deploy command... ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+
+[2023-10-31T12:30:18.652Z] Could not find project in current directory or any parent directory
